@@ -1,0 +1,12 @@
+body{
+    padding-top: 25px;
+    width: 80%;
+    margin: auto;
+    background: rgb(255,255,255);
+    background: radial-gradient(circle, rgba(255,255,255,1) 0%, rgba(221,220,222,0.9472163865546218) 100%);
+}
+
+footer{
+    margin-top:60px;
+}
+
